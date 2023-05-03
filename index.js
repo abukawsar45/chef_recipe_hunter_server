@@ -14,7 +14,7 @@ const chefDetails = require('./Chef_Details.json')
 
 
 app.get('/', (req, res) => {
-  res.json({message: "Assalamualaikum,"})
+  res.json({message: "Assalamualaikum"})
 
 })
 
@@ -24,9 +24,7 @@ app.get('/alldata', (req, res) => {
 
 app.get('/alldata/:id', (req, res) => {
   const id = parseInt(req.params.id);
-  console.log(id);
   const selectedChef = chefDetails.find(chef => chef._id === id)
-  console.log(selectedChef);
   res.send(selectedChef)
 });
 
