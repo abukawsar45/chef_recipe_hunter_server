@@ -2,50 +2,62 @@
   "chefs": [
     {
       "_id": 1,
+       "chef_image": "https://img.freepik.com/free-photo/male-chef-cook-wearing-black-uniform-cook-hat-presenting-something-with-arms-standing-pink-background_141793-54267.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "picture": "https://img.freepik.com/free-photo/selection-indian-food-including-chicken-curry-other-spices_1340-23307.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "name": "Kazi Sozib",
       "experience": 8,
       "numRecipes": 4,
+      "rating_star": "4.2",
       "likes": 1200
     },
     {
       "_id": 2,
+       "chef_image": "https://img.freepik.com/free-photo/young-male-cook-chef-uniform-raising-hand-looking_141793-26338.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
       "picture": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-also-known-as-food-platter-is-complete-lunch-dinner-meal-closeup-selective-focus_466689-9096.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "name": "Danis Iqbal",
       "experience": 12,
       "numRecipes": 5,
+      "rating_star": "4",
       "likes": 1500
     },
     {
       "_id": 3,
+       "chef_image": "https://img.freepik.com/premium-photo/portrait-handsome-indian-male-chef-posing-while-doing-activities_466689-14347.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
       "picture": "https://img.freepik.com/free-photo/delicious-indian-food-tray-flat-lay_23-2148723508.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "name": "Sihab Tiger",
       "experience": 5,
       "numRecipes": 4,
+      "rating_star": "4.9",
       "likes": 800
     },
     {
       "_id": 4,
+       "chef_image": "https://img.freepik.com/free-photo/mid-shot-man-holding-cutting-board-with-pizza_23-2148785690.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "picture": "https://img.freepik.com/free-photo/delicious-indian-food-tray_23-2148723505.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "name": "Jahangir Comil-la",
       "experience": 15,
       "numRecipes": 3,
+      "rating_star": "2",
       "likes": 2000
     },
     {
       "_id": 5,
+       "chef_image": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-3139.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
       "picture": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
       "name": "Makbul",
       "experience": 9,
       "numRecipes": 5,
+      "rating_star": "3.5",
       "likes": 1300
     },
     {
       "_id": 6,
+       "chef_image": "https://img.freepik.com/premium-photo/pretty-womanin-hijab-prepares-dinner-family-cutting-fresh-vegetables-making-salad-kitchen-table_255755-108.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
       "picture": "https://img.freepik.com/free-vector/hand-drawn-iftar-meal-elements-collection_52683-58622.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
       "name": "Mr. Kahin Vai",
       "experience": 6,
       "numRecipes": 4,
+      "rating_star": "5",
       "likes": 1000
     }
   ]

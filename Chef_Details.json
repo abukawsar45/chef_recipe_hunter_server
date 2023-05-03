@@ -1,0 +1,161 @@
+
+[
+{
+  "_id": 1,
+  "chef_name": "Kazi Sozib",
+  "chef_image": "https://img.freepik.com/free-photo/male-chef-cook-wearing-black-uniform-cook-hat-presenting-something-with-arms-standing-pink-background_141793-54267.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
+  "foods": [
+    {
+      "id": 1111,
+      "food_name": "Shorshe Ilish (Hilsa Fish with Mustard Curry)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-735x490.jpg.webp",
+      "details": "Bangladesh is a riverine country where a majority of the population eats fish regularly. Hilsa is the national fish of Bangladesh, and the country is responsible for almost 70% of the Hilsa fish production across the world."
+    },
+    {
+      "id": 2222,
+      "food_name": "Kacchi Biriyani (Mutton Biriyani)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-02-735x490.jpg.webp",
+      "details": "Biriyani is a vital part of South Asian cuisine. If you are acquainted with this dish, you may have already heard about a few variants prepared in Bangladesh, India, and Pakistan.Kacchi means raw in English. Unlike most other types of Biriyani, the meat used in this dish is first marinated with spices and placed at the bottom of the cooking pot uncooked.The rice, which is first washed and then mixed with spices, is added on top, before the meat and rice are cooked together. Sometimes potato is added to the mix to add body to the dish."
+
+    },
+    {
+      "id": 3333,
+      "food_name": "Bhuna Khichuri with Dim Bhaji (Yellow Rice with Omelette)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-04-735x490.jpg.webp",
+      "details": "A common rainy-day staple, Bhuna Khichuri is a wholesome rice dish and popular comfort food in Bengali cuisine.Khichuri, also known as Khichdi in India, is made with rice and lentils and is yellow in color. The rice and lentils are washed thoroughly and cooked with a few spices, turmeric, and ghee.If you visit Bangladesh during the monsoon, chances are high that you will be served this amazing dish. A slightly lighter version, Khichuri, is also common, and it is eaten with vegetables or eggs."
+    }
+  ]
+},
+{
+  "_id": 2,
+  "chef_name": "Danis Iqbal",
+  "chef_image": "https://img.freepik.com/free-photo/young-male-cook-chef-uniform-raising-hand-looking_141793-26338.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
+  "foods": [
+    {
+      "id": 1111,
+      "food_name": "Haleem (Mixed Lentil Soup and Meat)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-10-735x490.jpg.webp",
+      "details": "Households across Bangladesh eat Bhortas as a starter. Bhortas are mashed vegetables (or sometimes fish), mixed with a number of spices.The most common Bhortas are made from potatoes, eggplants, beans, pumpkins, and green bananas. Dry fish Bhorta, or Shutki Bhorta, is popular in Chattogram, Sylhet, Khulna, and other parts of the country.If you cannot stand the strong smell of dry fish, you can always try other Bhortas made from Taki fish (Spotted Snakehead fish) or shrimp."
+    },
+ 
+    {
+      "id": 2222,
+      "food_name": "Fuchka",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-08-735x490.jpg.webp",
+      "details": "I’m willing to bet that if you asked a hundred Bengalis to name their favorite street-food, the majority would say ‘fuchka.’A dish dating back generations, fuchka, also known as pani-puri in India, are small, round shells with a sticky filling. You can eat a singular fuchka in one bite.he outer shell is made with a mixture of semolina and flour. The filling contains boiled and mashed chickpeas, potatoes, and a mix of spices and coriander. Grated carrots or boiled eggs are sometimes used as a garnish, and fuchka are commonly tropped with a sweet-and-spicy tamarind sauce.Fuchka is an integral part of Bengali street-food culture. No hangout is ever complete without an appetizing plate of this delicious Bangladeshi food"
+    },
+    {
+      "id": 3333,
+      "food_name": "Kolijar Shingara (Beef/Mutton Liver Shingara)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-09-735x490.jpg.webp",
+      "details": "Shingara is a common finger-food in Bangladesh. This popular snack looks like a deep-fried pouch, and it is made of flour with a spicy potato filling. You can also find a somewhat gourmet version made with spicy mutton or beef liver, with a richer, juicier flavor."
+    }
+  ]
+},
+{
+  "_id": 3,
+  "chef_name": "Sihab Tiger",
+  "chef_image": "https://img.freepik.com/premium-photo/portrait-handsome-indian-male-chef-posing-while-doing-activities_466689-14347.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
+  "foods": [
+    {
+      "id": 1111,
+      "food_name": "Sheek Kebab with Naan (Kebab with Flatbread)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-05b-735x490.jpg.webp",
+      "details": "Bangladesh is well-known for its love of kebabs. Beef and mutton kebabs are extremely popular among people of all ages, and there are many different flavors and styles to try.Sheek kebab is perhaps the most well-known kebab item on the menu, and it pairs perfectly with a soft, warm naan.Sheek kebab is a dish of ground beef or mutton, mixed with spice, that is skewered and then roasted over hot coals. In Bangladesh, the meat is best served tender, with a slight outer charring."
+    },
+    {
+      "id": 2222,
+      "food_name": "Dal (Lentil Soup)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-06-735x490.jpg.webp",
+      "details": "Dal is another staple of Bangladeshi cuisine. Lentils are high in protein, and can easily be paired with rice or rotis.Masoor dal and Moong dal are two of many types of lentils that are used in Bangladeshi cuisine, all cooked in a similar fashion.There are two ways to cook dal. One is slightly soupier, and the other has a thicker consistency, similar to porridge. The latter is known as Chocchori Dal.The addition of coriander brings a freshness to this dish. Local cuisines also enhance the recipe by adding dried fruits, such as jujubes and raw mangoes to the soup to give it tanginess."
+    },
+       {
+      "id": 3333,
+      "food_name": " Bhorta (Mashed Vegetables with Spices)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-07-735x490.jpg.webp",
+      "details": "Households across Bangladesh eat Bhortas as a starter. Bhortas are mashed vegetables (or sometimes fish), mixed with a number of spices.The most common Bhortas are made from potatoes, eggplants, beans, pumpkins, and green bananas. Dry fish Bhorta, or Shutki Bhorta, is popular in Chattogram, Sylhet, Khulna, and other parts of the country.If you cannot stand the strong smell of dry fish, you can always try other Bhortas made from Taki fish (Spotted Snakehead fish) or shrimp."
+    }
+  ]
+},
+{
+  "_id": 4,
+  "chef_name": "Jahangir Comil-la",
+  "chef_image": "https://img.freepik.com/free-photo/mid-shot-man-holding-cutting-board-with-pizza_23-2148785690.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
+  "foods": [
+    {
+      "id": 1111,
+      "food_name": " Roshogolla (Traditional Syrupy Sweet)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-11-735x490.jpg.webp",
+      "details": "When it comes to dessert, Bangladeshi cuisine has so many unique and sweet flavors to offer. One of those dishes comes in the form of roshogolla.Roshogolla is a simple, wholesome dish. It is made from cottage cheese, which is strained from fresh milk and kneaded until soft. The cheese is pressed and rolled into balls, then boiled in sugar syrup until fluffy and spongy. Roshogolla can be eaten hot, fresh off the stove, or stored in the refrigerator and eaten as a chilled dessert."
+    },
+    {
+      "id": 2222,
+      "food_name": "Chomchom (Traditional Sweet / Chum Chum)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-12-scaled-735x490.jpg.webp",
+      "details": "The preparation of this delicious Bangladeshi dessert is similar to roshogolla. However, chomchom is cooked for a longer period of time. This gives it a darker outer layer, and a richer taste.Chomchom is usually served with sugar syrup and garnished with mawa flakes (made with evaporated milk).Chomchom is found in all sweet shops of the country. It is also included in gift packages sent during invitations or weddings. Try to find this glorious sweet dish at traditional sweet shops for the best taste."
+    },
+     {
+      "id": 3333,
+      "food_name": "Mishti Doi (Sweet Yogurt)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-15b-735x490.jpg.webp",
+      "details": "Yogurt is found in every district of Bangladesh, but mishti doi, originating from Bogra, is undoubtedly one of the most flavorsome types. People traveling through Bogra always stop to take a few servings home for their loved ones.Mishti doi is prepared as you would most fermented yogurts. It is made by adding sugar and molasses to boiling milk, then leaving it to ferment overnight."
+    },
+    {
+      "id": 4444,
+      "food_name": "Jilapi (Batter Boiled in Syrup)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-13-735x490.jpg.webp",
+      "details": "Jilapi is another popular dessert, that is also a popular and beloved street food. Just like haleem, it is a popular food during Ramadan, but it is sold all year round too.It is a simple dish, made from a thick batter of gram flour, water, and a sprinkle of rose water. Once mixed, the batter is poured into a piping bag, or a bottle with a nozzle."
+    }
+  ]
+},
+{
+  "_id": 5,
+  "chef_name": "Makbul",
+  "chef_image": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-3139.jpg?size=626&ext=jpg&ga=GA1.2.1626292175.1681061547&semt=ais",
+  "foods": [
+    {
+      "id": 1111,
+      "food_name": "Bhapa Pitha (Rice Cake)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-14-735x490.jpg.webp",
+      "details": "Rice is the staple food of Bangladesh, so it should come as no surprise natives have found ways to incorporate it in every type of meal.Bhapa Pitha is a type of sweet rice cake, made with ground rice flour, with a sweet center of jaggery and coconut shavings as a garnish. It is usually eaten warm, and it is widely available during the winter.Making bhapa pitha is a process that requires plenty of patience and skill. It is made by first pressing jaggery and rice flour – usually between two saucers – into a flat, round circle."
+    },
+    {
+      "id": 2222,
+      "food_name": "Chop",
+      "food_image": "https://www.chefspencil.com/wp-content/uploads/Aloor-Chop-960x720.jpg.webp",
+      "details": "Yogurt is found in every district of Bangladesh, but mishti doi, originating from Bogra, is undoubtedly one of the most flavorsome types. People traveling through Bogra always stop to take a few servings home for their loved ones.Mishti doi is prepared as you would most fermented yogurts. It is made by adding sugar and molasses to boiling milk, then leaving it to ferment overnight."
+    },
+    {
+      "id": 3333,
+      "food_name": "Luchi",
+      "food_image": "https://www.chefspencil.com/wp-content/uploads/Luchi-960x960.jpg.webp",
+      "details": "This flatbread is deep-fried and requires a specific process to get the perfect round shape that lets it puff. In Bangladesh, the perfect sized luchi is called Jamai Babu Luchi. Luchi is made with flour (maida), oil, salt, and sugar."
+    }
+  ]
+},
+{
+  "_id": 6,
+  "chef_name": "<%= @chef_name %>",
+  "chef_image": "https://img.freepik.com/premium-photo/pretty-womanin-hijab-prepares-dinner-family-cutting-fresh-vegetables-making-salad-kitchen-table_255755-108.jpg?size=626&ext=jpg&ga=GA1.1.1626292175.1681061547&semt=ais",
+  "foods": [
+    {
+      "id": 1111,
+      "food_name": "Falooda",
+      "food_image": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+      "details": "Falooda is a well known cold dessert made by mixing rose syrup and sweet basil seeds with milk, noodles, ice cream, and vermicelli. But in Bangladesh, it is made it a little differently. Here, it is made with pandan extract, pistachios, sago pearls, creamed coconut mango, milk, vermicelli, and even strong black tea."
+    },
+    {
+      "id": 2222,
+      "food_name": "Jhalmuri",
+      "food_image": "https://www.chefspencil.com/wp-content/uploads/Jhalmuri-960x720.jpg.webp",
+      "details": "In front of every school, college, and large institute and on any big occasion, there is always a guy wearing a lungi and a t-shirt selling one of Bangladesh’s most favored foods, Jhalmuri."
+    },
+    {
+      "id": 3333,
+      "food_name": "Borhani (Spicy Yogurt Drink)",
+      "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-16-735x490.jpg.webp",
+      "details": "One of the biggest occasions in Bangladesh is the Muslim celebration of Ramadan. One of the most popular foods for iftar is Chop, although it is eaten throughout the year as people enjoy the light, oily taste. There are different types of chop, but the common ingredients are pea-flour, oil, and salt. Then its name changes depending on the variety, for example Aloor Chop (potato chop) and meat chop."
+    }
+  ]
+}
+]
