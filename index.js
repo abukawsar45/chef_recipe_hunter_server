@@ -14,7 +14,7 @@ const chefDetails = require('./Chef_Details.json')
 
 
 app.get('/', (req, res) => {
-  res.json({message: "hello server running"})
+  res.json({message: "Assalamualaikum,"})
 
 })
 
