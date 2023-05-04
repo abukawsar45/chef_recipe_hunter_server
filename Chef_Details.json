@@ -10,6 +10,7 @@
     "foods": [
       {
         "id": 1111,
+        "ratings": "4.5",
         "food_name": "Shorshe Ilish (Hilsa Fish with Mustard Curry)",
         "likes": 877,
         "Ingredients": [
@@ -31,6 +32,7 @@
       },
       {
         "id": 2222,
+        "ratings": "3",
         "food_name": "Kacchi Biriyani (Mutton Biriyani)",
         "likes": 877,
         "Ingredients": [
@@ -50,6 +52,7 @@
       },
       {
         "id": 3333,
+        "ratings": "4",
         "food_name": "Bhuna Khichuri with Dim Bhaji (Yellow Rice with Omelette)",
         "likes": 877,
         "Ingredients": [
@@ -85,6 +88,7 @@
     "foods": [
       {
         "id": 1111,
+        "ratings": "4.5",
         "food_name": "Haleem (Mixed Lentil Soup and Meat)",
         "likes": 877,
         "Ingredients": [
@@ -106,6 +110,7 @@
       },
       {
         "id": 2222,
+        "ratings": "3",
         "food_name": "Fuchka",
         "likes": 877,
         "Ingredients": [
@@ -129,6 +134,7 @@
       },
       {
         "id": 3333,
+        "ratings": "4",
         "food_name": "Kolijar Shingara (Beef/Mutton Liver Shingara)",
         "likes": 877,
         "Ingredients": [
@@ -160,6 +166,7 @@
     "foods": [
       {
         "id": 1111,
+        "ratings": "4.5",
         "food_name": "Sheek Kebab with Naan (Kebab with Flatbread)",
         "likes": 877,
         "Ingredients": [
@@ -181,6 +188,7 @@
       },
       {
         "id": 2222,
+        "ratings": "3",
         "food_name": "Dal (Lentil Soup)",
         "likes": 877,
         "Ingredients": ["dal", "mosla", "water", "longka", "solt"],
@@ -195,6 +203,7 @@
       },
       {
         "id": 3333,
+        "ratings": "4",
         "food_name": " Bhorta (Mashed Vegetables with Spices)",
         "likes": 877,
         "Ingredients": [
@@ -226,6 +235,7 @@
     "foods": [
       {
         "id": 1111,
+        "ratings": "4.5",
         "food_name": " Roshogolla (Traditional Syrupy Sweet)",
         "likes": 877,
         "Ingredients": ["suger", "milk", "water", "Atta", "moyda"],
@@ -240,6 +250,7 @@
       },
       {
         "id": 2222,
+        "ratings": "3",
         "food_name": "Chomchom (Traditional Sweet / Chum Chum)",
         "likes": 877,
         "Ingredients": ["suger", "milk", "water", "Atta", "moyda"],
@@ -254,6 +265,7 @@
       },
       {
         "id": 3333,
+        "ratings": "4",
         "food_name": "Mishti Doi (Sweet Yogurt)",
         "likes": 877,
         "Ingredients": [
@@ -275,6 +287,7 @@
       },
       {
         "id": 4444,
+        "ratings": "4.5",
         "food_name": "Jilapi (Batter Boiled in Syrup)",
         "likes": 877,
         "Ingredients": [
@@ -309,6 +322,7 @@
     "foods": [
       {
         "id": 1111,
+        "ratings": "4.5",
         "food_name": "Bhapa Pitha (Rice Cake)",
         "likes": 877,
         "Ingredients": ["suger", "narikel", "gur", "rice", "moyda", "water"],
@@ -324,6 +338,7 @@
       },
       {
         "id": 2222,
+        "ratings": "3",
         "food_name": "Chop",
         "likes": 877,
         "Ingredients": ["suger", "milk", "water", "Atta", "moyda"],
@@ -341,6 +356,7 @@
       },
       {
         "id": 3333,
+        "ratings": "4",
         "food_name": "Luchi",
         "likes": 877,
         "Ingredients": ["oil", "atta", "pot", "Atta", "moyda"],
@@ -366,6 +382,7 @@
     "foods": [
       {
         "id": 1111,
+        "ratings": "4.5",
         "food_name": "Falooda",
         "likes": 877,
         "Ingredients": [
@@ -386,6 +403,7 @@
       },
       {
         "id": 2222,
+        "ratings": "3",
         "food_name": "Jhalmuri",
         "likes": 877,
         "Ingredients": [
@@ -409,6 +427,7 @@
       },
       {
         "id": 3333,
+        "ratings": "4",
         "food_name": "Borhani (Spicy Yogurt Drink)",
         "likes": 877,
         "Ingredients": [
