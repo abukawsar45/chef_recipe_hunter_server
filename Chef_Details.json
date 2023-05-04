@@ -2,7 +2,7 @@
   {
     "_id": 1,
     "chef_name": "Kazi Sozib",
-    "bio":"Kazi Sozib, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
+    "bio": "Kazi Sozib, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
     "experience": 8,
     "numRecipes": 3,
     "likes": 1200,
@@ -14,10 +14,10 @@
         "food_name": "Shorshe Ilish (Hilsa Fish with Mustard Curry)",
         "likes": 877,
         "Ingredients": [
-          "1 kg hilsa fish (cut into pieces)",
-          "¼ cup mango kasundi",
-          "1 tbsp mustard paste",
-          "¼ cup mustard oil",
+          "hilsa fish",
+          "mango kasundi",
+          "mustard paste",
+          "mustard oil",
           "Salt to taste"
         ],
         "cooking_method": [
@@ -36,11 +36,11 @@
         "food_name": "Kacchi Biriyani (Mutton Biriyani)",
         "likes": 877,
         "Ingredients": [
-          "1 kg basmati rice",
-          "1 kg mutton (with bones)",
-          "500g onions, sliced",
-          "250g ghee",
-          "3 cups yogurt"
+          "basmati rice",
+          "mutton (with bones)",
+          "onions, sliced",
+          "ghee",
+          "yogurt"
         ],
         "cooking_method": [
           "Soak basmati rice in two to three cups of water.",
@@ -56,11 +56,11 @@
         "food_name": "Bhuna Khichuri with Dim Bhaji (Yellow Rice with Omelette)",
         "likes": 877,
         "Ingredients": [
-          "1 cup of rice",
-          "1 cup of split red lentils",
-          "1 onion, finely chopped",
-          "1 teaspoon ginger paste",
-          "1 teaspoon garlic paste",
+          "rice",
+          "split red lentils",
+          "onion, finely chopped",
+          "ginger paste",
+          "garlic paste",
           "milk",
           "water",
           "Atta",
@@ -80,7 +80,7 @@
   {
     "_id": 2,
     "chef_name": "Danis Iqbal",
-    "bio":"Danis Iqbal also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. ",
+    "bio": "Danis Iqbal also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. ",
     "experience": 12,
     "numRecipes": 3,
     "likes": 1500,
@@ -92,12 +92,12 @@
         "food_name": "Haleem (Mixed Lentil Soup and Meat)",
         "likes": 877,
         "Ingredients": [
-          "1 cup of wheat grains",
-          "1 cup of split Bengal gram",
-          "1 cup of boneless chicken",
-          "1 onion, finely chopped",
-          "1 tablespoon ginger paste",
-          "1 tablespoon garlic paste"
+          "wheat grains",
+          "split Bengal gram",
+          "boneless chicken",
+          "finely chopped",
+          "paste",
+          "paste"
         ],
         "cooking_method": [
           "Soak the wheat grains,",
@@ -114,18 +114,18 @@
         "food_name": "Fuchka",
         "likes": 877,
         "Ingredients": [
-          "2 cups boiled and mashed potatoes",
-          "1 cup boiled chickpeas",
-          "1 teaspoon roasted cumin powder",
-          "1 teaspoon chaat masala",
-          "1/2 teaspoon red chili powder",
+          "mashed potatoes",
+          "chickpeas",
+          "cumin powder",
+          "masala",
+          "red chili powder",
           "Salt to taste",
           "Chopped cilantro for garnish"
         ],
         "cooking_method": [
           "Make the filling: In a large bowl,",
           "mix together the mashed potatoes,",
-           "boiled chickpeas, cumin powder,",
+          "boiled chickpeas, cumin powder,",
           "chaat masala, red chili powder,",
           "and salt. Mix well to combine and set aside."
         ],
@@ -138,10 +138,10 @@
         "food_name": "Kolijar Shingara (Beef/Mutton Liver Shingara)",
         "likes": 877,
         "Ingredients": [
-          "2 cups all-purpose flour",
-          "1/2 teaspoon salt",
-          "1/2 teaspoon sugar",
-          "1/2 cup vegetable shortening",
+          "all-purpose flour",
+          "teaspoon salt",
+          "teaspoon sugar",
+          "cup vegetable shortening",
           "Cold water, as needed"
         ],
         "cooking_method": [
@@ -158,7 +158,7 @@
   {
     "_id": 3,
     "chef_name": "Sihab Tiger",
-    "bio":"Gourmet expert Asad is a masterful Chef from Bangladesh who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. ",
+    "bio": "Gourmet expert Asad is a masterful Chef from Bangladesh who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. ",
     "experience": 5,
     "numRecipes": 3,
     "likes": 800,
@@ -170,11 +170,11 @@
         "food_name": "Sheek Kebab with Naan (Kebab with Flatbread)",
         "likes": 877,
         "Ingredients": [
-          "1 pound ground beef or lamb",
-          "1 onion, finely chopped",
-          "2 tablespoons fresh coriander,",
-          "1 tablespoon ginger paste",
-          "1 tablespoon garlic paste"
+          "pound ground",
+          "onion,chopped",
+          "tablespoons fresh,",
+          "tablespoon ginger",
+          "tablespoon paste"
         ],
         "cooking_method": [
           "In a large mixing bowl,",
@@ -207,17 +207,17 @@
         "food_name": " Bhorta (Mashed Vegetables with Spices)",
         "likes": 877,
         "Ingredients": [
-          "2 medium-sized eggplants",
-          "2-3 green chilies",
-          "1 small onion, finely chopped",
-          "2-3 garlic cloves, finely chopped",
-          "2-3 tablespoons mustard oil",
+          "eggplants",
+          "chilies",
+          " finely chopped",
+          "cloves, finely chopped",
+          "mustard oil",
           "Salt to taste"
         ],
         "cooking_method": [
           "Roast the eggplants: Preheat the oven to 375°F.",
-           "Pierce the eggplants with a fork in several places,",
-           "and place them on a baking sheet."
+          "Pierce the eggplants with a fork in several places,",
+          "and place them on a baking sheet."
         ],
         "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-07-735x490.jpg.webp",
         "details": "Households across Bangladesh eat Bhortas as a starter. Bhortas are mashed vegetables (or sometimes fish), mixed with a number of spices.The most common Bhortas are made from potatoes, eggplants, beans, pumpkins, and green bananas. Dry fish Bhorta, or Shutki Bhorta, is popular in Chattogram, Sylhet, Khulna, and other parts of the country.If you cannot stand the strong smell of dry fish, you can always try other Bhortas made from Taki fish (Spotted Snakehead fish) or shrimp."
@@ -241,9 +241,9 @@
         "Ingredients": ["suger", "milk", "water", "Atta", "moyda"],
         "cooking_method": [
           "constantly, until it comes to a boil.",
-           "Reduce the heat to low and add the lemon juice.",
-            "Stir well until the milk curdles,",
-            "and separates into curds and whey."
+          "Reduce the heat to low and add the lemon juice.",
+          "Stir well until the milk curdles,",
+          "and separates into curds and whey."
         ],
         "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-11-735x490.jpg.webp",
         "details": "When it comes to dessert, Bangladeshi cuisine has so many unique and sweet flavors to offer. One of those dishes comes in the form of roshogolla.Roshogolla is a simple, wholesome dish. It is made from cottage cheese, which is strained from fresh milk and kneaded until soft. The cheese is pressed and rolled into balls, then boiled in sugar syrup until fluffy and spongy. Roshogolla can be eaten hot, fresh off the stove, or stored in the refrigerator and eaten as a chilled dessert."
@@ -257,8 +257,8 @@
         "cooking_method": [
           "Heat the milk in a heavy-bottomed pot over medium heat,",
           "stirring constantly,",
-           "until it comes to a boil.",
-            "Reduce the heat to low and add the lemon juice."
+          "until it comes to a boil.",
+          "Reduce the heat to low and add the lemon juice."
         ],
         "food_image": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-12-scaled-735x490.jpg.webp",
         "details": "The preparation of this delicious Bangladeshi dessert is similar to roshogolla. However, chomchom is cooked for a longer period of time. This gives it a darker outer layer, and a richer taste.Chomchom is usually served with sugar syrup and garnished with mawa flakes (made with evaporated milk).Chomchom is found in all sweet shops of the country. It is also included in gift packages sent during invitations or weddings. Try to find this glorious sweet dish at traditional sweet shops for the best taste."
@@ -268,13 +268,7 @@
         "ratings": "4",
         "food_name": "Mishti Doi (Sweet Yogurt)",
         "likes": 877,
-        "Ingredients": [
-          "1 liter full-fat milk",
-          "1/2 cup sugar",
-          "medicine",
-          "water",
-          "2 tablespoons yogurt"
-        ],
+        "Ingredients": ["milk", "sugar", "medicine", "water", "yogurt"],
         "cooking_method": [
           "Pour the milk into a heavy-bottomed pot,",
           "and bring it to a boil over medium heat.",
@@ -291,11 +285,11 @@
         "food_name": "Jilapi (Batter Boiled in Syrup)",
         "likes": 877,
         "Ingredients": [
-          "1 cup all-purpose flour",
-          "1 tablespoon corn flour",
+          "all-purpose flour",
+          "corn flour",
           " baking soda",
           " turmeric powder",
-          "1 cup water"
+          "water"
         ],
         "cooking_method": [
           "Make the batter: In a bowl, mix the flour,",
@@ -314,7 +308,7 @@
   {
     "_id": 5,
     "chef_name": "Makbul",
-    "bio":"From Makbul Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
+    "bio": "From Makbul Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
     "experience": 9,
     "numRecipes": 3,
     "likes": 1300,
@@ -327,7 +321,7 @@
         "likes": 877,
         "Ingredients": ["suger", "narikel", "gur", "rice", "moyda", "water"],
         "cooking_method": [
-          "In a mixing bowl,", 
+          "In a mixing bowl,",
           "combine rice flour,",
           "Gradually add water",
           "and mix well to form a smooth batter.",
@@ -374,7 +368,7 @@
   {
     "_id": 6,
     "chef_name": "Apa",
-    "bio":"Ms Apa (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuringBangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
+    "bio": "Ms Apa (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuringBangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
     "experience": 6,
     "numRecipes": 3,
     "likes": 1000,
@@ -386,11 +380,11 @@
         "food_name": "Falooda",
         "likes": 877,
         "Ingredients": [
-          "falooda sev (vermicelli noodles)",
+          "falooda sev",
           "milk",
           "rose syrup",
-          "basil seeds (sabja)",
-          " of cardamom powder"
+          "basil seeds",
+          "cardamom powder"
         ],
         "cooking_method": [
           "Soak the basil seeds in water",
@@ -408,10 +402,10 @@
         "likes": 877,
         "Ingredients": [
           "puffed rice",
-          "finely chopped onion",
-          "finely chopped tomato",
-          "finely chopped cucumber",
-          "boiled and peeled potato"
+          " onion",
+          "tomato",
+          "cucumber",
+          "boiled"
         ],
         "cooking_method": [
           "In a mixing bowl,",
@@ -431,11 +425,11 @@
         "food_name": "Borhani (Spicy Yogurt Drink)",
         "likes": 877,
         "Ingredients": [
-          "plain yogurt",
-          "4 cups of water",
-          "mint leaves, chopped",
-          "coriander leaves, chopped",
-          "cucumber, grated"
+          "yogurt",
+          "water",
+          "leaves, chopped",
+          "leaves, chopped",
+          " grated"
         ],
         "cooking_method": [
           "In a large mixing bowl,",
